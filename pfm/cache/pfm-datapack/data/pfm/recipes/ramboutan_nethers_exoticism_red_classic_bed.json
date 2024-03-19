@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:ramboutan_nethers_exoticism_red_classic_bed"
+  }
+}

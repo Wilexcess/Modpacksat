@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_fence"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:jabuticaba_nethers_exoticism_red_classic_bed"
+  }
+}

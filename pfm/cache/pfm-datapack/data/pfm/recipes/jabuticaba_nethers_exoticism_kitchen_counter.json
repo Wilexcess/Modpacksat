@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:jabuticaba_nethers_exoticism_kitchen_counter"
+  }
+}

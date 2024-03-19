@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:stripped_rose_log"
+    },
+    {
+      "item": "create_dd:stripped_rose_log"
+    },
+    {
+      "item": "create_dd:stripped_rose_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_rose_create_dd_table_dinner"
+  }
+}

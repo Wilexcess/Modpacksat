@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:smoked_create_dd_brown_simple_bed"
+  }
+}

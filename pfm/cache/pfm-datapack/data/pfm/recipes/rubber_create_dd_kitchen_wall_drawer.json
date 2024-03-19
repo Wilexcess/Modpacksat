@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubber_create_dd_kitchen_wall_drawer"
+  }
+}

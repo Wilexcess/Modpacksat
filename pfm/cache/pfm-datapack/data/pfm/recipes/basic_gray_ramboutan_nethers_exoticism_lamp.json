@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "gray",
+        "variant": "nethers_exoticism:ramboutan"
+      }
+    }
+  }
+}

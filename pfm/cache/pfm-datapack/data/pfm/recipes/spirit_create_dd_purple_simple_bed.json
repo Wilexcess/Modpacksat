@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:spirit_create_dd_purple_simple_bed"
+  }
+}

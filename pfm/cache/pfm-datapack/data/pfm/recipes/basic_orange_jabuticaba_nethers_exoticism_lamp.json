@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "orange",
+        "variant": "nethers_exoticism:jabuticaba"
+      }
+    }
+  }
+}

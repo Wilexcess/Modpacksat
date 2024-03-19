@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_rubber_create_dd_kitchen_sink"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:spirit_create_dd_table_basic"
+  }
+}

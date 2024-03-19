@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "blue",
+        "variant": "nethers_exoticism:jabuticaba"
+      }
+    }
+  }
+}

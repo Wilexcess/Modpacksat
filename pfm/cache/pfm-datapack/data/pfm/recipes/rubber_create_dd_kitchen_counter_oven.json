@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubber_create_dd_kitchen_counter_oven"
+  }
+}

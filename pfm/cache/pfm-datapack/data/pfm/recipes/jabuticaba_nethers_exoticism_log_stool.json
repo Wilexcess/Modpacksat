@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jabuticaba_nethers_exoticism_log_stool"
+  }
+}

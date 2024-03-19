@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ramboutan_nethers_exoticism_log_stool"
+  }
+}

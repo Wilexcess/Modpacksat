@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    },
+    {
+      "item": "nethers_exoticism:jaboticaba_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jabuticaba_nethers_exoticism_chair_dinner"
+  }
+}

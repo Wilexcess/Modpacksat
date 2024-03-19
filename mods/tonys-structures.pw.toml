@@ -1,0 +1,13 @@
+name = "Tony's Structures"
+filename = "Tony's Structures V2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23d9ddbbfb4fa40783fd1c98bc92d1fd2ec5a6eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4666114
+project-id = 893150

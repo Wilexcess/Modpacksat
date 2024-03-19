@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_rubber_create_dd_chair_classic"
+  }
+}

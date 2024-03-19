@@ -1,0 +1,12 @@
+name = "BABA davids"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "42ca59c75e718d39f0e34310c62f86aaba88d3f5a6fae91f7488fb751d64e4af"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"

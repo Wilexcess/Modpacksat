@@ -1,0 +1,13 @@
+name = "Steel armor blocks"
+filename = "steel_armor_blocks_forge_1.19.2_1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "415c519fd4175edc154fd24ef52d4c3f15033034"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4799382
+project-id = 907369

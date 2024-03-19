@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:rose_create_dd_table_basic"
+        }
+      ],
+      "name": "rose_create_dd_table_basic",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Very Many Players (Forge)"
+filename = "vmp-forge-mc1.19.2-0.2.0+beta.7.35-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3a879444944f7169114c1f82e54dfa9a7e4e825"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4659340
+project-id = 892037

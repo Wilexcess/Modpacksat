@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "nethers_exoticism:ramboutan_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ramboutan_nethers_exoticism_kitchen_cabinet"
+  }
+}

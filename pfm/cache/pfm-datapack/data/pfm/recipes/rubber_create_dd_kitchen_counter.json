@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:rubber_create_dd_kitchen_counter"
+  }
+}

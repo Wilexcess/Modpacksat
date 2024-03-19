@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    },
+    {
+      "item": "create_dd:rose_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:rose_create_dd_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,7 @@
+// 1.19.2	2024-03-18T18:09:10.4576553	PFM Tags for Blocks
+6df4fb5034f1a4f2e493ce42085a832270bdc8de data/minecraft/tags/blocks/beds.json
+df713122a184aaa376f9bd55ef46cb2007828c43 data/minecraft/tags/blocks/climbable.json
+d04cc36037b2c0de3cc6e7305cd40f47fdf9d71f data/minecraft/tags/blocks/mineable/axe.json
+044309d4f117beda3389f81438327f8ad916a613 data/minecraft/tags/blocks/mineable/pickaxe.json
+eb6d8a47199b221f0d4701526c40c7693bbdd3dc data/minecraft/tags/blocks/mineable/shovel.json
+f6a395f32b824ba30d8aad2856c5be6fc2af533e data/pfm/tags/blocks/tuckable_blocks.json

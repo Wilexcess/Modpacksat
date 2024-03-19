@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_jabuticaba_nethers_exoticism_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,13 @@
+name = "Create Gourmet"
+filename = "gourmet-1.19.2-0.1.0c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7480a02039969b20f741c0f97926a371b8254257"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4629235
+project-id = 867119

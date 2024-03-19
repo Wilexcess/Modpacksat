@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_time_twilightforest_kitchen_drawer"
+        }
+      ],
+      "name": "stripped_time_twilightforest_kitchen_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

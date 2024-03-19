@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_spirit_create_dd_kitchen_drawer"
+  }
+}

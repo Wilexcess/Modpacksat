@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "create_dd:smoked_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:smoked_create_dd_kitchen_counter_oven"
+  }
+}

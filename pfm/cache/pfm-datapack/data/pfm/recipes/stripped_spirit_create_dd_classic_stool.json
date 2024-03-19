@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:spirit_planks"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    },
+    {
+      "item": "create_dd:stripped_spirit_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_spirit_create_dd_classic_stool"
+  }
+}

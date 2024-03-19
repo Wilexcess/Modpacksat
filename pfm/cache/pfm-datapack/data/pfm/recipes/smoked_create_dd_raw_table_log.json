@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    },
+    {
+      "item": "create_dd:smoked_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:smoked_create_dd_raw_table_log"
+  }
+}

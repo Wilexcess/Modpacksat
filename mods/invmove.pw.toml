@@ -1,0 +1,13 @@
+name = "InvMove"
+filename = "InvMove-1.19-0.8.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83a6755d64e436d7b59d534e80661212b124c7b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4346455
+project-id = 581854

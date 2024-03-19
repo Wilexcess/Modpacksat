@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "create_dd:stripped_rubber_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_rubber_create_dd_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:rose_create_dd_chair"
+        }
+      ],
+      "name": "rose_create_dd_chair",
+      "rolls": 1.0
+    }
+  ]
+}

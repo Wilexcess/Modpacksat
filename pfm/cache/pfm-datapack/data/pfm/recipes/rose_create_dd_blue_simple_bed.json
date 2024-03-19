@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "create_dd:rose_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:rose_create_dd_blue_simple_bed"
+  }
+}

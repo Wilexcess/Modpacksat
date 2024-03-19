@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "create_dd:spirit_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:spirit_create_dd_kitchen_cabinet"
+  }
+}

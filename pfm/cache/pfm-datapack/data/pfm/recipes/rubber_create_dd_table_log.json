@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_log"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    },
+    {
+      "item": "create_dd:rubber_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubber_create_dd_table_log"
+  }
+}
